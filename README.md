@@ -67,4 +67,3 @@ This method allows you to configure the system so that actions with the `neko-tu
 ## License
 
 This repository is licensed under the **MIT License**. You may use, copy, modify, and distribute it under the terms of this license.
-```
